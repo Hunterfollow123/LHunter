@@ -3,7 +3,9 @@
 
 **LHunter** is a tool designed to crack Facebook accounts with profile lock.
 
+
 It uses a unique technique which is based on the number used to login.
+
 The numbers used are of countries that have profile lock enabled.
 
 
@@ -12,8 +14,11 @@ The numbers used are of countries that have profile lock enabled.
 **INSTALLATION**
 
 `git clone https://github.com/Hunterfollow123/LHunter`
+
 `cd LHunter`
+
 `pip install -r requirements.txt`
+
 `python LHunter.py`
 
 
