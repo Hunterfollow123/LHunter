@@ -198,6 +198,6 @@ while True:
         		print(line)
         		time.sleep(0.005)
         if cmd == "clear":
-        	os.system("cls")
+        	os.system("cls||clear")
         
         
