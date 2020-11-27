@@ -1,5 +1,6 @@
 
-# Sample py cracker #
+# Hnflw #
+# gan' gan' #
 
 import random
 import time
